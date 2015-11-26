@@ -486,6 +486,12 @@ hash.each do |name, age|
 end
 ```
 ハッシュを自由自在に使えると応用が効きやすいので、覚えると良い。
+以下にハッシュが使えるような問題を以下に用意した。少々難しい問題かもしれないが、是非こちらも挑戦してみて欲しい。
+
+- http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0088
+- http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0105
+- http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0201
+- http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0242
 
 ## 参考資料
 初めてのRuby O'REILLY Japan　Yugui著  
