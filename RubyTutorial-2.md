@@ -135,7 +135,7 @@ Human.new('John', 15)
 このインスタンス化時に、呼び出されるメソッドが*initialize*メソッドである。
 *initialize*の定義は自由だが、基本的にはオブジェクトを構成するための初期値を決める処理を書くことが一般的である。また、*initialize*メソッドのことをコンストラクタと呼ぶことがある。
 
-![oop](./img/oop.png "OOP")
+<img src="./img/oop.png" width="300", height="350"</img>
 
 ### 3.1 メソッド
 
