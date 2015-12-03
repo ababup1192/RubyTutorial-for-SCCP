@@ -1,7 +1,7 @@
 # 課外プロジェクト 2015 実践的プログラミング
 ## ~ Ruby II ~
 2015 11/30 渡部未来・齊藤智博
-資料URL: https://github.com/tspider0176/RubyTutorial-for-SCCP
+資料URL: https://github.com/ababup1192/RubyTutorial-for-SCCP
 
 ## 1 はじめに
 
