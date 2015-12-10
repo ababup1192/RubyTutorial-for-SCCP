@@ -341,11 +341,12 @@ class Foo
 end
 
 class Bar
-def initialize
-  @x = 123 # フィールドxはFixnum
-end
-def method_a
-  puts @x
+  def initialize
+    @x = 123 # フィールドxはFixnum
+  end
+  def method_a
+    puts @x
+  end
 end
 
 class Fizz < Foo < Bar
@@ -427,6 +428,8 @@ Foo.new
 ### 5.2 名前空間
 
 モジュールは多重継承を解決するためだけの手段ではない。名前空間を与える役割もしている。
+名前空間とは名前の衝突を避けるために分割するためのものである。
+例えば同名のファイルを保存することができないためにディレクトリを作って分ける、これも名前空間と言える。
 名前空間の例は以下の様なものである。
 
 ```
