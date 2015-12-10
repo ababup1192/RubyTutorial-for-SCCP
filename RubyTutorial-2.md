@@ -171,13 +171,13 @@ end
 
 ```
 Name.new('Barack', 'Obama')
-=> "B.O"
+=> "B.O."
 Name.new('George', 'W', 'Bush')
-=> "G.W.B"
+=> "G.W.B."
 Human.new('Barack', 'Obama', 54)
-=> "Barack.Obama (54)"
+=> "B.O. (54)"
 Human.new('George', 'W', 'Bush', 69)
-=> "George.W.Bush (69)"
+=> "G.W.B. (69)"
 ```
 
 上の例のようにあるオブジェクト(クラス)があるオブジェクト(クラス)を持っている関係をHAS-Aの関係と呼ぶ(Human has a Name.)。
